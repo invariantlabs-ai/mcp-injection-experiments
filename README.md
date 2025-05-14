@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/invariantlabs-ai-mcp-injection-experiments-badge.png)](https://mseep.ai/app/invariantlabs-ai-mcp-injection-experiments)
+
 # MCP Tool Poisoning Experiments
 
 This repository contains a few experimental MCP server implementations, that attempt ot inject the MCP client/agent in use.
